@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[TeamViewer - UI Changes](j01/)
+[TeamViewer - UI Changes (j01)](j01/)
