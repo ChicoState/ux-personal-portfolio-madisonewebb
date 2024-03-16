@@ -21,3 +21,6 @@ In my latest home project, setting up my dad's new desktop, TeamViewer's redesig
 My expectation, shaped by experiences with other software, was straightforward: right-click the desired computer, navigate to some form of device settings, and edit the nickname. This process, rooted in a **mental mode**l of how software typically functions, clashed with TeamViewer's approach. While I could right-click and access properties, the interface that presented itself was confusing and unresponsive. The inability to interact with the text box as anticipated is a clear example of a mismatch between the **user's expectations** and the application's design, impacting the **learnability** of the new interface.
 
 This experience underscores the importance of consistency and standards in UI design. Users bring a set of expectations built on their interactions with other software; when those expectations are not met, frustration and inefficiency can ensue. To improve usability, software should leverage familiar patterns or clearly guide users through unique workflows.
+
+**User Feedback**
+![User Feedback](../assets/User_Feedback.png)
