@@ -4,7 +4,7 @@ I use TeamViewer to provide technical assistance to my family. TeamViewer is a f
 
 I've been using TeamViewer for a few years now, and I’ve had all sorts of experiences and learning hiccups with it. It’s recently undergone a very large UI redesign. The application still allows the user to move back and forth between the old and the new UI. I’ve used lots of other applications for remote connections, and TeamViewer definitely has its pros and cons.
 
-The recent UI redesign of TeamViewer marked a significant shift in my user experience. The software now allows toggling between the old and new user interfaces, a choice that caters to diverse user preferences but also introduces a layer of complexity. This duality in design reflects an interesting aspect of **user control and freedom**, offering the flexibility to stick with the familiar or venture into the new. Yet, this option can be potentially complicating the user experience for those less comfortable with change.
+The recent UI redesign of TeamViewer caused a significant shift in my user experience. The software now allows toggling between the old and new user interfaces though, a choice that caters to **user preferences** but also introduces a layer of complexity. This duality in design reflects an interesting aspect of **user control and freedom**, offering the flexibility to stick with the familiar or venture into the new. Yet, this option can be potentially complicating the user experience for those less comfortable with change.
 
 **Old Interface**
 ![Old Interface](../assets/Old_Interface.png "Old Interface")
@@ -12,16 +12,16 @@ The recent UI redesign of TeamViewer marked a significant shift in my user exper
 **New Interface**
 ![New Interface](../assets/New_Interface.png "New Interface")
 
-In my latest home project, setting up my dad's new desktop, TeamViewer's redesigned interface came into play. Adding his desktop to my account was straightforward, a testament to the application's **efficiency**. However, a feature I frequently use — assigning nicknames to devices for easy identification — showcased a significant discrepancy between my **mental model** and the application's **conceptual model**. 
+In my latest home project, setting up my dad's new desktop, TeamViewer's redesigned interface came into play. Adding his desktop to my account was straightforward, a testament to the application's **efficiency**. However, a feature I frequently use — assigning nicknames to devices for easy identification — brought up a significant discrepancy between my **mental model** and the application's **conceptual model**. 
 
-My expectation, shaped by experiences with other software, was straightforward: right-click the desired computer, navigate to some form of device settings, and edit the nickname. This process, rooted in a **mental mode**l of how software typically functions, clashed with TeamViewer's approach. While I could right-click and access properties, the interface that presented itself was confusing and unresponsive. The inability to interact with the text box as anticipated is a clear example of a mismatch between the **user's expectations** and the application's design, impacting the **learnability** of the new interface.
+My expectation, shaped by experiences with other software, was straightforward: right-click the desired computer, navigate to some form of device settings, and edit the nickname. This process, rooted in a **mental model** of how software typically functions, clashed with TeamViewer's approach. While I could right-click and access properties, the interface that presented itself was confusing and unresponsive. The inability to interact with the text box as anticipated is a clear example of a mismatch between the **user's expectations** and the application's design, impacting the **learnability** of the new interface.
 
 **Old Interface Editing Nickname**
 ![Editing Nickname](../assets/Description_Issue.png)
 
 This experience underscores the importance of consistency and standards in UI design. Users bring a set of expectations built on their interactions with other software; when those expectations are not met, frustration and inefficiency can ensue. To improve usability, software should leverage familiar patterns or clearly guide users through unique workflows.
 
-With the new UI, TeamViewer has simplified the process of editing device nicknames, a change that significantly impacts the **usability** of the software. This improvement demonstrates TeamViewer's commitment to evolving in response to **user feedback**, emphasizing **user control and freedom** within the application. The ability to easily edit nicknames without navigating through confusing menus or dealing with unresponsive text boxes enhances the **learnability** and **efficiency** of the software, allowing users to personalize their list of devices quickly and effortlessly.
+With the new UI, TeamViewer has simplified the process of editing device nicknames, a change that significantly impacts the **usability** of the software. This improvement is just a small example of TeamViewer's commitment to evolving in response to **user feedback**, emphasizing **user control and freedom** within the application. The ability to easily edit nicknames without navigating through confusing menus or dealing with unresponsive text boxes enhances the **learnability** and **efficiency** of the software, allowing users to personalize their list of devices quickly and effortlessly.
 
 **Editing Details**
 ![Editing Details](../assets/NewUI_EditDetails.png)
