@@ -6,7 +6,7 @@ Hi there! My name is Madison and this is my first semester at Chico State! I'm a
 
 ## UX Team Project
 
-Coming soon.
+[Animal Adopter](https://chicostate.github.io/UX-animal-adopter/)
 
 ## UX Journal
 
