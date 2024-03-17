@@ -2,7 +2,7 @@
 
 Hi there! My name is Madison and this is my first semester at Chico State! I'm a Computer Sciene major transferring from Butte College. Some of my hobbies include 3D modeling and printing as well as videogames. In my freetime, I'm usually spendtime with my three cats and my partner, Katie.
 
-![MadiAndKatie](/assets/MadiAndKatie.png "Madi and Katie")
+![Madi](/assets/MadisonWebb.jpg "Madison Webb")
 
 ## UX Team Project
 
