@@ -12,4 +12,5 @@ Hi there! My name is Madison and this is my first semester at Chico State! I'm a
 ## UX Journal
 
 [TeamViewer - UI Changes (j01)](j01/)
+
 [TeamViewer - UI Changes **Revision** (j02)](j02/)
